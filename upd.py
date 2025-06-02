@@ -1,3 +1,4 @@
+# con este script se consolidan los historicos en el disco local de la instancia vm01 (AWS EC2)
 import os
 import boto3
 import pandas as pd
