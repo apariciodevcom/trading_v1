@@ -1,3 +1,5 @@
+# Esta funcion se ejecuta todos los dias desde AWS Lambda, se invoca desde Amazon EventBridge con un schedule para cada grupo de simbolos
+
 import os
 import json
 import boto3
